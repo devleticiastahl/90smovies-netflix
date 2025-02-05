@@ -5,7 +5,7 @@
 Este projeto analisa os dados de filmes dos anos 1990 da Netflix para descobrir tendências de entretenimento, gêneros populares e insights chave dessa década influente no cinema. Baseada no conjunto de dados `netflix_data.csv`, a análise oferece recomendações para empresas de produção que buscam criar filmes nostálgicos.
 
 ### 🛠️ Ferramentas
-- Datalab notebook
+- Jupyter notebook
 - Python
 - Pandas
 - NumPy
@@ -111,8 +111,6 @@ Os **filmes de ação** e **dramas** tendem a ser mais longos, enquanto **coméd
 
 ☕ Sinta-se à vontade para fazer um fork deste repositório, abrir pull requests ou relatar problemas. **Contribuições são bem-vindas!**
 
-## Licença
 
-Este projeto está licenciado sob a **Licença MIT** - veja o arquivo LICENSE para mais detalhes.
 
 
