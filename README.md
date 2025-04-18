@@ -92,24 +92,9 @@ Os **filmes de ação** e **dramas** tendem a ser mais longos, enquanto **coméd
 - **Personagens Atemporais**: Crie **heróis ousados** e **figuras relacionáveis** para fortalecer o apelo emocional.
 - **Nostalgia e Técnica Moderna**: Misture a estética dos anos 90 com narrativas contemporâneas para atrair o público atual.
 
-## Como rodar o código
-
-1. Clone este repositório em sua máquina local.
-2. Certifique-se de ter as bibliotecas necessárias instaladas. Execute:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Execute o notebook para visualizar a análise:
-
-    ```bash
-    jupyter notebook
-    ```
-
 ## Contribuições
 
-☕ Sinta-se à vontade para fazer um fork deste repositório, abrir pull requests ou relatar problemas. **Contribuições são bem-vindas!**
+☕ **Contribuições são bem-vindas!**
 
 
 
