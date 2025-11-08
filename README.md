@@ -1,5 +1,7 @@
 # Investigando Filmes dos Anos 1990 🎬
 
+🇺🇸 Check out the English version here: 
+
 ## Sobre o projeto
 
 Este projeto analisa os dados de filmes dos anos 1990 da Netflix para descobrir tendências de entretenimento, gêneros populares e insights chave dessa década influente no cinema. Baseada no conjunto de dados `netflix_data.csv`, a análise oferece recomendações para empresas de produção que buscam criar filmes nostálgicos.
