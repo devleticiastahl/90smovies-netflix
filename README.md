@@ -1,6 +1,6 @@
 # Investigando Filmes dos Anos 1990 🎬
 
-🇺🇸 Check out the English version here: 
+🇺🇸 Check out the English version here: https://github.com/devleticiastahl/90smovies-netflix/blob/main/README.en-us.md
 
 ## Sobre o projeto
 
